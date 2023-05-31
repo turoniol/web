@@ -1,0 +1,15 @@
+.Auth-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    background-color: #282c34;
+}
+
+.Auth-body {
+    width: 250px;
+    background-color: #fff;
+    border-radius: 15px;
+}
